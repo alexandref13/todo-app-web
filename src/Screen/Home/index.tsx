@@ -8,7 +8,7 @@ export function Home(){
         <Form>
           <Input name="task" placeholder="Adicione uma nova tarefa"/>
           <Button type="submit">
-            <Text> Criar </Text>
+            <Text> Criar</Text>
           </Button>
         </Form>
       </Main>
