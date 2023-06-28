@@ -8,7 +8,10 @@ import { Home } from './Screen/Home';
 
 function App() {
   return(
+    <>
+    <div className="con">alala</div>
     <Home />
+    </>
   )
 }
 
